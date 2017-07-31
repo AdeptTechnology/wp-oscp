@@ -9,7 +9,7 @@
         "rtf",
         "odt"
     ],
-    "companyName": "Testing",
+    "companyName": "[ COMPANY NAME HERE ]",
     "defaultLocale": "en-US",
     "supportedLocales": [
         "en-US",
@@ -20,13 +20,13 @@
     "maxUploadSize": 5242880,
     "service": {
         "batchSize": 500,
-        "corpToken": "",
+        "corpToken": "[ CORP TOKEN HERE ]",
         "port": null,
-        "swimlane": ""
+        "swimlane": "[ SWIMLANE HERE ]"
     },
     "integrations": {
         "linkedin": {
-            "clientId": ""
+            "clientId": "[ CLIENTID HERE ]"
         }
     },
     "defaultGridState": "list-view",
